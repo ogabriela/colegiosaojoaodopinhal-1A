@@ -1,1 +1,11 @@
-# col-gio-s-o-jo-o-do-pinhal---1-A
+## Participantes
+
+- Alunos da turma de Pensamento Computacional do matutino
+
+
+## Linguagem utilizada
+
+- HTML
+- CSS
+
+## Softwares
